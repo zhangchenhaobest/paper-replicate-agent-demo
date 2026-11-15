@@ -1,3 +1,29 @@
+# paper-replicate-agent-demo
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A structured Claude Code workflow for empirically replicating published research using UK Biobank data.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用 UK Biobank 数据实证复现已发表研究的结构化 Claude Code 工作流。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18723722.svg)](https://doi.org/10.5281/zenodo.18723722)
 
 # Paper Replication Agent | Claude Code 论文复现工作流
